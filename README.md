@@ -30,7 +30,9 @@ class Matheus:
     <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,git,github" /> </p>
 
 🔥 Consistência
-<p align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OMathgr&theme=tokyonight&hide_border=true" />
+</p>
 
 🐍 Atividade (Snake Animation)
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
