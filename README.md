@@ -26,22 +26,22 @@ class Matheus:
         return "Sempre aprendendo e construindo 🚀"
 ```
 
-🚀 Tecnologias
+## 🚀 Tecnologias
     <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,git,github" /> </p>
 
-🔥 Consistência
+## 🔥 Consistência
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OMathgr&theme=tokyonight&hide_border=true" />
 </p>
 
-🐍 Atividade (Snake Animation)
+## 🐍 Atividade (Snake Animation)
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 
-💡 Projetos em destaque
+## 💡 Projetos em destaque
 
 🚧 Em construção... (em breve projetos em C# e Python)
 
-📫 Contato
+## 📫 Contato
 <p align="center"> <a href="https://www.linkedin.com/in/omathgr/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 <p align="center"> ⚡ "Code. Learn. Evolve." </p>
