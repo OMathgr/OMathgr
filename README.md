@@ -27,7 +27,7 @@ class Matheus:
 ```
 
 ## 🚀 Tecnologias
-    <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,git,github" /> </p>
+  <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,git,github" /> </p>
 
 ## 🔥 Consistência
 <p align="center">
