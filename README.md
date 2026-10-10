@@ -1,47 +1,71 @@
-<h1 align="center">⚡ Matheus Graciano Ribeiro</h1>
+<h1 align="center">Matheus Graciano Ribeiro</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação | 🎓 Sistemas de Informação (FHO) <br>
-  ⚙️ C# | 🐍 Python | 🔐 Cybersecurity | 🧠 Machine Learning
+  Desenvolvedor back-end em formação · Sistemas de Informação (FHO)<br>
+  Python · SQLite · Testes automatizados · Arquitetura em camadas
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Turning+logic+into+solutions;Back-end+Developer+in+progress;Learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com/?color=1F6FB2&size=22&center=true&vCenter=true&width=600&lines=Turning+logic+into+solutions;Back-end+developer+in+progress;Learning+something+new+every+day" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
+
+Estudante de Sistemas de Informação na FHO, vindo de quase 4 anos como designer, onde aprendi a ouvir o cliente e transformar pedidos em soluções. Hoje concentro meus estudos em **desenvolvimento back-end com Python**: modelagem de domínio, persistência de dados, consumo de APIs e testes.
 
 ```python
 class Matheus:
     def __init__(self):
-        self.role = "Desenvolvedor em formação"
-        self.education = "Sistemas de Informação - FHO"
-        self.languages = ["C#", "Python"]
+        self.role = "Desenvolvedor back-end em formação"
+        self.education = "Sistemas de Informação - FHO (2029)"
+        self.stack = ["Python", "SQLite", "pytest", "Git"]
+        self.learning = ["HTML", "CSS", "JavaScript", "C#"]
         self.interests = ["Back-end", "Machine Learning", "Cybersecurity"]
-        self.current_focus = "Evolução prática e construção de projetos"
 
     def mindset(self):
-        return "Sempre aprendendo e construindo 🚀"
+        return "Construir, testar e evoluir um projeto de cada vez"
 ```
 
-## 🚀 Tecnologias
-  <p align="center"> <img src="https://skillicons.dev/icons?i=c,cs,python,git,github" /> </p>
+## Projetos em destaque
 
-## 🔥 Consistência
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [**Adventurer's Guide**](https://github.com/OMathgr/adventurers-guide) | Motor de regras de Daggerheart para mesas de RPG: cria personagens, valida cada subida de nível e gera ficha e linha do tempo. Mais de 90 testes automatizados. | Python · pytest · JSON |
+| [**Monitor de Cotações**](https://github.com/OMathgr/Monitor_Moedas) | Consulta cotações de USD, EUR e GBP em uma API REST, mostra a variação em um dashboard no terminal, dispara alertas e guarda o histórico. | Python · requests · SQLite |
+| [**Agenda de Contatos**](https://github.com/OMathgr/Agenda_de_Contatos_OOP) | CRUD de contatos em camadas, com validação de dados e bloqueio de duplicados. | Python · SQLite |
+| [**Snake Game**](https://github.com/OMathgr/SnakeGame-Python) | Jogo clássico para terminal, orientado a objetos e compatível com Windows e Linux. | Python |
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,c,git,github,vscode,figma" />
+</p>
+
+<p align="center"><b>Estudando agora:</b> HTML · CSS · JavaScript · C#</p>
+
+## Consistência
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OMathgr&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Atividade (Snake Animation)
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+## Atividade
 
-## 💡 Projetos em destaque
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OMathgr/OMathgr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OMathgr/OMathgr/output/github-snake.svg" />
+    <img alt="Animação da cobrinha com minhas contribuições" src="https://raw.githubusercontent.com/OMathgr/OMathgr/output/github-snake.svg" />
+  </picture>
+</p>
 
-🚧 Em construção... (em breve projetos em C# e Python)
+## Contato
 
-## 📫 Contato
-<p align="center"> <a href="https://www.linkedin.com/in/omathgr/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omathgr/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:o.mathgr@outlook.com"><img src="https://img.shields.io/badge/-E--mail-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+</p>
 
-<p align="center"> ⚡ "Code. Learn. Evolve." </p>
+<p align="center">"Code. Learn. Evolve."</p>
